@@ -1,4 +1,4 @@
-Name,Job Title,Address,State,City
+name,job_title,address,state,city
 Edward Green,Developer,110 Pike Street,WA,Seattle
 Vasya Ivanov,Developer,111 Pike Street,WA,Seattle
 Masha Sidorova,Developer,112 Pike Street,WA,New York
