@@ -1,5 +1,5 @@
 name,job_title,address,state,city, update
-Edward Green,Developer,110 Pike Street,WA,Seattle,"2024-03-01T00:00:00Z"
-Vasya Ivanov,Developer,111 Pike Street,WA,Seattle,"2024-02-01T01:00:06Z"
-Masha Sidorova,Developer,112 Pike Street,WA,New York,"2024-01-01T05:45:06Z"
-Lena Petrova,Analytic,113 Pike Street,WA,New York,"2023-12-01T03:45:06Z"
+Edward Green,Developer,110 Pike Street,WA,Seattle,"2022-03-01T01:00:00.000Z"
+Vasya Ivanov,Developer,111 Pike Street,WA,Seattle,"2024-02-01T22:00:00.000Z"
+Masha Sidorova,Developer,112 Pike Street,WA,New York,"2024-01-01T00:01:00.000Z"
+Lena Petrova,Analytic,113 Pike Street,WA,New York,"2023-12-01T02:00:00.000Z"
